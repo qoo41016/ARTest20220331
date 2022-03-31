@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/0.3.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/0.4.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
