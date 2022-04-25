@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "ARWT",
-"productVersion": "0.1",
+"productName": "AR",
+"productVersion": "1.0",
 "dataUrl": "0.5.data.unityweb",
 "wasmCodeUrl": "0.5.wasm",
 "wasmFrameworkUrl": "0.5.wasm.framework.unityweb",
